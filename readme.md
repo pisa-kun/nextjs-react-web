@@ -5,4 +5,7 @@ https://github.com/ebisucom/next-react-website
 
 ### Create Project
 
-> npx create-react-app blog --template typescript
+> npx create-next-app blog --template typescript  
+> cd blog  
+> npm run build  
+> npm run dev  
